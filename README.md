@@ -3,7 +3,7 @@
 **Zweck:** Automatisierte Content-Produktion fuer Instagram (@mytekton). Aus neuen App-Features, Use Cases und Meilensteinen werden regelmaessig verwertbare Social-Assets erzeugt: Post-Ideen, Captions, Hashtags, Carousel-Outlines, CTAs — mit klarer Ablage pro Jahr/Monat/Woche.
 
 **Primaerkanal:** Instagram (Feed + Reels + Stories). Facebook als Spiegel.
-**Frequenz:** 3x pro Woche (Mo, Mi, Fr).
+**Frequenz:** 2x pro Woche (Di, Do).
 **Beste Zeiten:** 6:30-7:30, 12:00-13:00, 18:00-19:00.
 
 ---

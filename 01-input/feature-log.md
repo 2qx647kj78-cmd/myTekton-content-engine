@@ -87,7 +87,7 @@
 - Nutzer-Impact: Buchhaltung arbeitet schneller, nichts faellt durchs Raster
 - Zielgruppe: Buchhaltung, Admins
 - Beleg: Sprint 16 `docs/sprints/sprint-16-finanzen-kundennummer.md`
-- Rohideen: Post "4 Rollen — jeder sieht was er braucht"
+- Rohideen: Post "7 Rollen — jeder sieht was er braucht"
 
 ---
 
@@ -127,11 +127,11 @@
 ### 2026-02-05 — Rollenbasierte Sichtbarkeit
 - Typ: neu
 - Problem vorher: Jeder sah alles — Handwerker wurden von irrelevanten Auftraegen zugeschuettet
-- Loesung jetzt: 4 Rollen (Admin, Projektleiter, Handwerker, Buchhaltung) mit eigenen Sichten und Rechten
+- Loesung jetzt: 7 Rollen (Admin, Meister, Projektleiter, Facharbeiter, Handwerker, Auszubildender, Buchhaltung) mit eigenen Sichten und Rechten
 - Nutzer-Impact: Weniger Ablenkung, klare Verantwortung, bessere Datensicherheit
 - Zielgruppe: Alle
 - Beleg: Sprint 11 `docs/sprints/sprint-11-rollenbasierte-sichtbarkeit.md`
-- Rohideen: Karussell "4 Rollen — was jeder sieht"
+- Rohideen: Karussell "7 Rollen — was jeder sieht"
 
 ---
 
